@@ -1,2 +1,2 @@
 # toy-react
-react
+React
