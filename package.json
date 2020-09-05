@@ -1,0 +1,19 @@
+{
+  "name": "toy-react",
+  "version": "1.0.0",
+  "description": "参考链接：\r 提前安装 Node.js、npm 环境： https://nodejs.org/en/\r webpack： https://webpack.js.org/guides/getting-started/\r React Tutorial 教程： https://reactjs.org/tutorial/tutorial.html\r TicTacToe： https://codepen.io/gaearon/pen/gWWZgR\r MDN： https://developer.mozilla.org/en-US/",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowhouse1103/toy-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snowhouse1103/toy-react/issues"
+  },
+  "homepage": "https://github.com/snowhouse1103/toy-react#readme"
+}
