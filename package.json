@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/snowhouse1103/toy-react/issues"
   },
-  "homepage": "https://github.com/snowhouse1103/toy-react#readme"
+  "homepage": "https://github.com/snowhouse1103/toy-react#readme",
+  "dependencies": {
+    "webpack-cli": "^3.3.12"
+  }
 }
